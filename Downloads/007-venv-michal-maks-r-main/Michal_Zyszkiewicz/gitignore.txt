@@ -1,0 +1,2 @@
+Michal_Zyszkiewicz/venv/
+Michal_Zyszkiewicz/oceny/
